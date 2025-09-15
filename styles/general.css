@@ -185,6 +185,14 @@ nav .logo img:hover {
   color: white;
 }
 
+.hero-btn1 { 
+  width: 140px;
+}
+
+.hero-btn2 {
+  width: 120px;
+}
+
 /* 🏢 About Section */
 .about {
   text-align: center;
@@ -386,4 +394,5 @@ footer .socials a:hover {
 
 .all-services-btn {
   margin-top: 15px;
+
 }
